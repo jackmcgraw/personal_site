@@ -1,6 +1,8 @@
-# Jack McGraw Personal Site
+# Personal Site
 
 ## jackmcgraw.me
 
-### TODO:
+### About Me
 
+- Student at Dartmouth College
+- Computer Science Major
